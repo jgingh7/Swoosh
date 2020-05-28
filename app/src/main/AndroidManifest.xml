@@ -10,6 +10,8 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity android:name=".SkillActivity"></activity>
+        <activity android:name=".dfadfas" />
+        <activity android:name=".dkjfdoactivity" />
         <activity android:name=".BaseActivity" />
         <activity android:name=".LeagueActivity" />
         <activity android:name=".WelcomeActivity">
