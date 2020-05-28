@@ -3,7 +3,7 @@ package io.github.jgingh7.swoosh
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 
-class SkillActivity : AppCompatActivity() {
+class SkillActivity : BaseActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
