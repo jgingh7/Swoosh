@@ -1,4 +1,4 @@
-package io.github.jgingh7.swoosh
+package io.github.jgingh7.swoosh.controller
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
